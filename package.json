@@ -1,0 +1,25 @@
+{
+  "name": "credex",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadabmansurii/Credex.git"
+  },
+  "author": "shadab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shadabmansurii/Credex/issues"
+  },
+  "homepage": "https://github.com/shadabmansurii/Credex#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.30.1",
+    "random": "^5.4.1",
+    "simple-git": "^3.28.0"
+  }
+}
